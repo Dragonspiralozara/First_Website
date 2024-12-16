@@ -15,15 +15,28 @@
     justify-content: left;
 }
 .headerbox1 {
-    font-weight: bold;
+    font-weight: 900;
     text-align: center;
     height: 35px;
     font-size: 25px;
 }
 
-.headerbox1, .headerbox2, .headerbox3, .headerbox4 {
+.headerbox5 {
+    font-weight: 900;
+    text-align: left;
+    margin-top: -200px;
+    margin-left: 60px;
+    font-size: 48px;
+    width: 450px;
+    color: #F9FAF8;
+    border: 6px solid maroon;
+}
+
+
+.headerbox1, .headerbox2, .headerbox3, .headerbox4{
     width: 600px;
     color: #F9FAF8;
+    border: 6px solid maroon;
 }
 
 .headerbox2, .headerbox3, .headerbox4 {
