@@ -1,0 +1,17 @@
+.container {
+    background: dodgerblue;
+    width: 1900px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.box {
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    height: 45px;
+    font-size: 30px;
+    color: #F9FAF8;
+}
