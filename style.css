@@ -14,25 +14,25 @@
     align-items: center;
     justify-content: left;
 }
-.box1 {
+.headerbox1 {
     font-weight: bold;
     text-align: center;
     height: 35px;
     font-size: 25px;
 }
 
-.box1, .box2, .box3, .box4 {
+.headerbox1, .headerbox2, .headerbox3, .headerbox4 {
     width: 600px;
     color: #F9FAF8;
 }
 
-.box2, .box3, .box4 {
+.headerbox2, .headerbox3, .headerbox4 {
     text-align: right;
     height: 25px;
     font-size: 18px;
 }
 
-.box3, .box4 {
+.headerbox3, .headerbox4 {
 
     margin-left: -450px;
 }
