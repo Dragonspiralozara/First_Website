@@ -1,12 +1,19 @@
 .container1 {
+    height: 50px;
+}
+
+.container2 {
+    height: 500px
+
+}
+
+.container1, .container2{
     background: #1F2937;
     width: 1900px;
-    height: 50px;
     display: flex;
     align-items: center;
     justify-content: left;
 }
-
 .box1 {
     font-weight: bold;
     text-align: center;
