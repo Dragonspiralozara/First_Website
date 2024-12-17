@@ -3,15 +3,15 @@
 }
 
 .container2 {
-    height: 500px
-
+    height: 500px;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .container1, .container2{
     background: #1F2937;
     width: 1900px;
     display: flex;
-    align-items: center;
     justify-content: left;
 }
 .headerbox1 {
@@ -24,12 +24,21 @@
 .headerbox5 {
     font-weight: 900;
     text-align: left;
-    margin-top: -200px;
-    margin-left: 60px;
     font-size: 48px;
     width: 450px;
     color: #F9FAF8;
     border: 6px solid maroon;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.headerbox6 {
+    text-align: left;
+    font-size: 18px;
+    width: 390px;
+    color: #F9FAF8;
+    border: 6px solid maroon;
+    margin-left: 200px;
 }
 
 
