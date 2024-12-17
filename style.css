@@ -8,6 +8,13 @@
     align-items: flex-start;
 }
 
+.container3 {
+    height: 1000px;
+    flex-direction: row;
+    align-items: flex-start;
+    background: #E5E7EB;
+}
+
 .container1, .container2{
     background: #1F2937;
     width: 1900px;
@@ -40,6 +47,16 @@
     border: 6px solid maroon;
     margin-left: 200px;
 }
+.headerbox7 {
+    text-align: left;
+    font-size: 18px;
+    width: 390px;
+    color: #0a0a0a;
+    border: 6px solid maroon;
+    margin-left: 200px;
+    margin-top: 500px;
+}
+
 
 
 .headerbox1, .headerbox2, .headerbox3, .headerbox4{
